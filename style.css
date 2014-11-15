@@ -7,6 +7,10 @@ form {
 	width: 600px;
 	padding: 0 15px 30px 15px;
 }
-p.error {
-	color: red;
+.red {
+	background-color: pink;
+}
+.green {
+	background-color: lightgreen;
+	border: 1px solid black;
 }
